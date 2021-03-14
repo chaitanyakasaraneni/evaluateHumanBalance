@@ -172,3 +172,13 @@ docker logs -f nd029-c2-apache-spark-and-spark-streaming_stedi_1
 
 - Upload at least two screenshots of the working graph to the screenshots workspace folder 
 
+### Project Flow
+![Project Representation](images/HumanBalance-Wireframe.png)
+
+
+### Sample Screenshots
+![Sample Screenshot-1](home/workspace/screenshots/Screenshot-1.png)
+
+![Sample Screenshot-2](home/workspace/screenshots/Screenshot-2.png)
+
+![Sample Screenshot-3](home/workspace/screenshots/Screenshot-3.png)
